@@ -11,7 +11,7 @@ config();
 connectDB();
 
 
-const app = express()
+const app = express() // this definition
 
 
 //API Routes
